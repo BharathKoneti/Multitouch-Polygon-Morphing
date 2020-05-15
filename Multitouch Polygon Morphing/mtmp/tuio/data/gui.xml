@@ -1,0 +1,26 @@
+<toggles></toggles>
+<slidersF>
+    <element>
+        <id>0</id>
+        <name>Dist Threshold</name>
+        <value>400.000000</value>
+        <min>0.000000</min>
+        <max>1000.000000</max>
+    </element>
+    <element>
+        <id>1</id>
+        <name>Task Threshold</name>
+        <value>300.000000</value>
+        <min>0.000000</min>
+        <max>1000.000000</max>
+    </element>
+    <element>
+        <id>2</id>
+        <name>Scroll Factor</name>
+        <value>2.000000</value>
+        <min>1.000000</min>
+        <max>5.000000</max>
+    </element>
+</slidersF>
+<slidersI></slidersI>
+<sliders2D></sliders2D>

@@ -1,0 +1,2 @@
+cd Touchlib_Tracking_Software
+configapp.exe
